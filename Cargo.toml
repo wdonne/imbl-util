@@ -1,0 +1,14 @@
+[package]
+name = "imbl-util"
+version = "1.0.0"
+edition = "2024"
+description = "imbl utilities"
+homepage = "https://github.com/wdonne/imbl-util"
+repository = "https://github.com/wdonne/imbl-util"
+license = "BSD-2-Clause"
+readme = "README.md"
+keywords = ["imbl", "utilities"]
+exclude = ["*.iml"]
+
+[dependencies]
+imbl = "7.0.0"
