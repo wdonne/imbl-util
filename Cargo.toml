@@ -1,6 +1,6 @@
 [package]
 name = "imbl-util"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 description = "imbl utilities"
 homepage = "https://github.com/wdonne/imbl-util"
@@ -11,4 +11,4 @@ keywords = ["imbl", "utilities"]
 exclude = ["*.iml"]
 
 [dependencies]
-imbl = "7.0.0"
+imbl = "7.0.1"
