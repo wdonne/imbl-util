@@ -1,14 +1,14 @@
 [package]
-name = "imbl-util"
-version = "1.0.1"
-edition = "2024"
 description = "imbl utilities"
-homepage = "https://github.com/wdonne/imbl-util"
-repository = "https://github.com/wdonne/imbl-util"
-license = "BSD-2-Clause"
-readme = "README.md"
-keywords = ["imbl", "utilities"]
+edition = "2024"
 exclude = ["*.iml"]
+homepage = "https://github.com/wdonne/imbl-util"
+keywords = ["imbl", "utilities"]
+license = "BSD-2-Clause"
+name = "imbl-util"
+readme = "README.md"
+repository = "https://github.com/wdonne/imbl-util"
+version = "1.0.2"
 
 [dependencies]
-imbl = "7.0.1"
+imbl = "7.0.2"
