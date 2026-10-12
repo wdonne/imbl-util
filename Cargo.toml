@@ -8,7 +8,7 @@ license = "BSD-2-Clause"
 name = "imbl-util"
 readme = "README.md"
 repository = "https://github.com/wdonne/imbl-util"
-version = "1.0.2"
+version = "1.1.0"
 
 [dependencies]
 imbl = "7.0.2"
